@@ -1,0 +1,7 @@
+{
+  "client": {
+    "name": "$NODE_IP",
+    "address": "$NODE_IP",
+    "subscriptions": [ "all" ]
+  }
+}
