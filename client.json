@@ -1,7 +1,7 @@
 {
   "client": {
-    "name": "$NODE_IP",
-    "address": "$NODE_IP",
+    "name": "172.16.0.29",
+    "address": "172.16.0.29",
     "subscriptions": [ "all" ]
   }
 }
